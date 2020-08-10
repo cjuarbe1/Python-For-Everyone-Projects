@@ -1,0 +1,4 @@
+continue = true
+while continue:
+  userInput = input("Enter a number:")
+  try

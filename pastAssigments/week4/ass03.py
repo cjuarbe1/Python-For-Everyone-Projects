@@ -1,0 +1,6 @@
+name = input("What is your name ")
+age = input("How old are you ")
+number= input("Pick a number between 1 and 5 ")
+combine = float(age) + float(number)
+print("Your name is " + name + " and you are " + age + " years old")
+print("Your age combine with your number is " , combine)
